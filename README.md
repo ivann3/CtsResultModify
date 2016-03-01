@@ -1,10 +1,12 @@
 # CtsResultModify
 
-使用说明：
+一、使用说明：
+
 将本文件放到CTS或GTS的result文件下下执行
 
-修改点：
-二、修改CTS与GTS的结果：
+二、修改点：
+
+修改CTS与GTS的结果：
 
 (1).读取"Summary"节点两个属性的值："failed"属性与"notExecuted"属性
 
